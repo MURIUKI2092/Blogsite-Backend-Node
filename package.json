@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/MURIUKI2092/Blogsite-Backend-Node#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^16.0.0",
     "expres": "^0.0.5",
     "express": "^4.17.3",
